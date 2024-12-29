@@ -3,4 +3,4 @@
 
  estou aprendendo a criar site e irei gerenciar meus repositorios
 
-<a href="https://joaovitor2074.github.io/html-css/desafios/desafio01/android.html"> execurtar o site sobre android
+<a href="https://joaovitor2074.github.io/html-css/desafios/desafio01/android.html"> execurtar o site sobre android</a>
