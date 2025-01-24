@@ -9,3 +9,11 @@ function menu(){
         nav.style.transition = "1s";
     }
 }
+function mudou(){
+
+    if(window.innerWidth >= 768){
+        nav.style.display = "block";
+    }else{
+        nav.style.display = "none";
+    }
+}
